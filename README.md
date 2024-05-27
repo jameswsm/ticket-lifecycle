@@ -30,11 +30,9 @@ Part 3: Assigning, escalating, and closing tickets (8 steps)<br />
 - MySQL Server
 - Install osTicket
 - Assigning Permissions
-  
 - osTicket
 - Chief User: james
 - Agents: jane.doe and jon.doe
-- 
 
 
 
